@@ -1,4 +1,4 @@
-# Bank-Projects-Web-Scraping
+# Bank-Projects-ETL
 Web-scraped project details from worldwide banks
 
 Tasks included extracting key information from Bank's websites or APIs and downloading image or PDFs to local drive.
